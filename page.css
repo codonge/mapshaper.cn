@@ -451,6 +451,7 @@ body.dragover #import-options-drop-area .drop-area {
 }
 
 .popup-dialog {
+	position: fixed;
 	display: none;
 	z-index: 80;	
 	text-align: center;
